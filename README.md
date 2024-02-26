@@ -1,9 +1,9 @@
-# Fintech Demo Website
+# 🌟 Fintech Demo Website
 
 Simple and too organized Fintech demo website.
 [Demo Here!](https://fiintech-demo.netlify.app/)
 
-# Installation and editing
+# ☄️ Installation and editing
 
 - Extract the downloaded file to the folder.
 - Install `Node.js v20.10.0 version` on your computer.
@@ -11,6 +11,6 @@ Simple and too organized Fintech demo website.
 - After downloading Node modules, type `npm run dev` in the terminal.
 - Open the `index.html` file and you can make any changes you want to the site.
 
-# Contact
+# ✉️ Contact
 
 fatih@devsoftware.org
